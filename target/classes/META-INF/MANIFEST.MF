@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 11.0.7
+Class-Path: lib/jcommander-1.78.jar
+Main-Class: locations.CLI.Main
+Created-By: Maven Integration for Eclipse
+
